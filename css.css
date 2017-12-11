@@ -36,8 +36,8 @@ img {
 }
 
 h1 {
+  text-align: center;
   font-size: 2em;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-  font-decoration: undlerline;
-  font-weight: bold;
+  text-decoration: undlerline;
 }
