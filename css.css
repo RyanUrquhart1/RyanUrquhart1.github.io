@@ -34,3 +34,10 @@ a:hover {
 img {
   float:left; padding: 10px 10px;
 }
+
+h1 {
+  font-size: 2em;
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+  font-decoration: undlerline;
+  font-weight: bold;
+}
