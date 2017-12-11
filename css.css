@@ -41,3 +41,11 @@ h1 {
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
   text-decoration: underline;
 }
+
+p {
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+  font-size: 1em;
+  line-height: 1em;
+  text-align: justify;
+  text-justify: inter-word;
+}
